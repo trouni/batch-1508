@@ -1,0 +1,9 @@
+[submodule "lectures/restaurants-1508"]
+	path = lectures/restaurants-1508
+	url = git@github.com:trouni/restaurants-1508.git
+[submodule "lectures/rails-geocoding"]
+	path = lectures/rails-geocoding
+	url = git@github.com:trouni/geocoding-demo-1508
+[submodule "lectures/rails-authentication"]
+	path = lectures/rails-authentication
+	url = git@github.com:trouni/devise-demo-1508
